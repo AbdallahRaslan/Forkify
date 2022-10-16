@@ -1,10 +1,10 @@
-7664
+7652
 95C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\lmdb\dependencies\v8133101333818129516 1
 118C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\modules\es.typed-array.to-string.js133101381228901627 0
 104C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\actual\parse-float.js133101381257388423 0
 109C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\type-fest\source\package-json.d.ts133101333814311711 0
 87C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\entities\lib133101333814551575 1
-66C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist133104004253816007 1
+66C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist133104035063581505 1
 81C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\@babel133101333796352109 1
 120C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\modules\esnext.async-iterator.take.js133101381229471635 0
 100C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\@parcel\watcher\src\macos133101333814181794 1
@@ -292,7 +292,7 @@
 105C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\type-fest\source\asyncify.d.ts133101333810963664 0
 114C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\features\typed-array\methods.js133101381255428245 0
 109C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\features\string\pad-end.js133101381256858728 0
-87C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\favicon.76dd299c.png133104004233087053 0
+87C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\favicon.76dd299c.png133104035063401594 0
 107C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\es\number\parse-float.js133101381257408413 0
 117C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\msgpackr-extract\bin\download-prebuilds.js133101333812902534 0
 79C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\src\img\icons.svg132886587180000000 0
@@ -385,7 +385,6 @@
 95C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\postcss-value-parser133101333811713229 1
 83C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\chokidar133101334308168995 1
 95C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\lmdb\src\lmdb-js.cpp133101333817429910 0
-90C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\starter.3464ddca.js.map133101364909827342 0
 81C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\terser133101333816660360 1
 124C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\stable\object\get-own-property-symbols.js133101381240913298 0
 123C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\lmdb\node_modules\node-addon-api\tools\README.md133101333814081855 0
@@ -1055,7 +1054,7 @@
 101C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\yaml\browser\types\omap.js133101333813032452 0
 102C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\es\string\anchor.js133101381215313371 0
 117C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\stable\string\virtual\ends-with.js133101381223132611 0
-85C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\index.30a2d638.css133104004253696092 0
+85C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\index.30a2d638.css133104035063411596 0
 106C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\@parcel\utils\test\input\config133101333817829679 1
 113C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\features\array\virtual\fill.js133101381233437597 0
 130C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\dom-serializer\node_modules\entities\lib\index.d.ts.map133101333812972493 0
@@ -1754,7 +1753,6 @@
 102C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\es\string\substr.js133101381266304178 0
 114C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\internals\number-parse-float.js133101381255947945 0
 91C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\svgo\lib\svgo.js133101333817200045 0
-84C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\index.e37f48ea.js133104003356063708 0
 100C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\source-map-js\lib\util.js133101334308258941 0
 87C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\domutils\lib133101333814341699 1
 95C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\es\README.md133101381275812209 0
@@ -3112,7 +3110,6 @@
 124C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\@parcel\runtime-js\lib\helpers\node\css-loader.js133101333812642684 0
 112C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\features\string\trim-right.js133101381271389715 0
 101C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\domutils\lib\querying.d.ts133101333814211775 0
-88C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\index.62406edb.js.map133101368050376145 0
 117C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\@parcel\core\lib\requests\TargetRequest.js133101333818759151 0
 102C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\domutils\lib\stringify.d.ts133101333814281739 0
 106C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\domutils\lib\stringify.d.ts.map133101333813272318 0
@@ -3293,7 +3290,7 @@
 123C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\caniuse-lite\data\features\element-from-point.js133101333820738008 0
 110C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\csso\lib\replace\property\border.js133101333813122401 0
 118C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\stable\typed-array\last-index-of.js133101381252368676 0
-89C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\index.30a2d638.css.map133104004253796122 0
+89C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\index.30a2d638.css.map133104035063561521 0
 107C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\modules\es.array.some.js133101381224682298 0
 107C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\full\string\fontcolor.js133101381237914959 0
 103C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\@parcel\events\src\errors.js133101333811353424 0
@@ -3443,7 +3440,6 @@
 122C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\css-tree\lib\syntax\node\PseudoClassSelector.js133101333817799697 0
 124C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\css-tree\lib\syntax\node\PseudoElementSelector.js133101333817819685 0
 107C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\css-tree\lib\syntax\node\Rule.js133101333817879651 0
-89C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\index.f7626f62.css.map133103267339385216 0
 115C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\css-tree\lib\syntax\node\SelectorList.js133101333817989590 0
 91C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\braces\README.md133101334308099030 0
 113C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\css-tree\lib\syntax\node\StyleSheet.js133101333818129516 0
@@ -4011,7 +4007,7 @@
 115C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\stable\array\virtual\iterator.js133101381250993165 0
 111C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\stable\array\virtual\join.js133101381251308500 0
 120C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\stable\array\virtual\last-index-of.js133101381252328693 0
-84C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\index.e90fa810.js133104004253696092 0
+84C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\index.e90fa810.js133104035063421588 0
 110C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\stable\array\virtual\map.js133101381254108452 0
 101C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\@lezer\common\package.json133101333811203512 0
 105C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\modules\es.unescape.js133101381228951592 0
@@ -5183,7 +5179,6 @@
 118C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\caniuse-lite\data\features\css-paint-api.js133101333819658620 0
 96C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\features\date133101381270025944 1
 107C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\features\dom-collections133101381250861385 1
-85C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\icons.dfd7a6db.svg133102337927205283 0
 101C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\features\escape.js133101381229031549 0
 116C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\features\string\virtual\anchor.js133101381215413326 0
 100C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\features\function133101381272879539 1
@@ -5555,7 +5550,7 @@
 119C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\features\array\virtual\filter-out.js133101381233577528 0
 109C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\@parcel\core\src\public\Symbols.js133101333818639219 0
 122C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\features\array\virtual\filter-reject.js133101381233657476 0
-88C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\index.e90fa810.js.map133104004253796122 0
+88C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\index.e90fa810.js.map133104035063561521 0
 118C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\features\array\virtual\find-last.js133101381235843874 0
 113C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\features\array\virtual\find.js133101381236203807 0
 113C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\core-js\features\array\virtual\flat.js133101381237645114 0
@@ -6434,7 +6429,6 @@
 117C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\caniuse-lite\data\features\console-time.js133101333817999582 0
 120C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\caniuse-lite\data\features\contenteditable.js133101333818069548 0
 126C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\caniuse-lite\data\features\contentsecuritypolicy.js133101333818089529 0
-85C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\index.f7626f62.css133103267339325246 0
 127C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\caniuse-lite\data\features\contentsecuritypolicy2.js133101333818109514 0
 126C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\caniuse-lite\data\features\credential-management.js133101333818199464 0
 125C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\caniuse-lite\data\features\intersectionobserver.js133101333822237146 0
@@ -6776,7 +6770,6 @@
 96C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\browserslist\parse.js133101333811623271 0
 85C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\braces\lib133101334308208972 1
 96C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\braces\lib\compile.js133101334308119022 0
-88C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\index.e37f48ea.js.map133104003356113673 0
 95C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\braces\lib\expand.js133101334308158999 0
 94C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\braces\lib\parse.js133101334308178988 0
 101C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\@parcel\utils\lib\index.js133101333815770880 0
@@ -6978,7 +6971,6 @@
 139C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\@parcel\workers\test\integration\workerfarm\master-process-id.js133101333814021881 0
 132C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\@parcel\workers\test\integration\workerfarm\master-sum.js133101333814131821 0
 136C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\@parcel\workers\test\integration\workerfarm\reverse-handle.js133101333814891391 0
-84C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\logo.726d37a8.png133103267340954313 0
 138C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\@parcel\workers\test\integration\workerfarm\shared-reference.js133101333814951348 0
 100C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\@lezer\lr\dist\stack.d.ts133101333812522750 0
 105C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\@parcel\workers\src\backend.js133101333809854300 0
@@ -7460,7 +7452,6 @@
 129C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one133101333819548686 1
 143C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\@parcel\core\test\fixtures\targets-default-distdir-none\package.json133101333819538692 0
 122C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\@parcel\core\test\fixtures\plugins\node_modules133101333817200045 1
-87C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\favicon.8b2f57bf.png133102337928209434 0
 153C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines133101333819518714 1
 161C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\index.js133101333817220034 0
 165C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\package.json133101333819528718 0
@@ -7655,11 +7646,8 @@
 90C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\.bin\semver.ps1133101333828613436 0
 88C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\.bin\svgo.ps1133101333828613436 0
 90C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\node_modules\.bin\terser.cmd133101333828613436 0
-85C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\icons.21bad73c.svg133103267341683902 0
-85C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\icons.c14567a0.svg133104004252676672 0
-84C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\index.111c3637.js133104004253696092 0
-88C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\index.111c3637.js.map133104004253796122 0
-84C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\index.62406edb.js133101368050351747 0
-77C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\index.html133104004253696092 0
-84C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\logo.8a7af738.png133104004244034937 0
-86C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\starter.3464ddca.js133101364909777355 0
+85C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\icons.c14567a0.svg133104035063411596 0
+84C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\index.111c3637.js133104035063421588 0
+88C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\index.111c3637.js.map133104035063571517 0
+77C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\index.html133104035063401594 0
+84C:\Users\rasla\OneDrive\Desktop\Javascript\18-forkify\starter\dist\logo.8a7af738.png133104035063401594 0
